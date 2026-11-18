@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+live.png
+vio_*.csv
+.DS_Store
